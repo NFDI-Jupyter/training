@@ -7,7 +7,7 @@ title: Jupyter4NFDI Training
 :::
 
 
-
+</br></br>
 <div class="j4n-actions">
   <a class="j4n-button j4n-button-primary" href="./pages/modules">Explore training modules →</a>
   <a class="j4n-button j4n-button-outline" href="./pages/getting-started">Getting started</a>
