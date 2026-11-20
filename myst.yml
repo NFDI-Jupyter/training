@@ -18,7 +18,7 @@ project:
 site:
   title: Jupyter4NFDI Training
   options:
-    logo: assets/training-logo.svg
+    logo: assets/Jupyter4NFDI-top.png
     favicon: assets/favicon.svg
     style: custom.css
   actions:
