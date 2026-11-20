@@ -1,5 +1,6 @@
 ---
 title: Jupyter4NFDI Training
+---
 
 <div style="max-width: 850px; margin: 2rem auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
@@ -11,7 +12,7 @@ title: Jupyter4NFDI Training
       allowfullscreen>
     </iframe>
   </div>
-</div>---
+</div>
 
 
 <div class="j4n-hero">
