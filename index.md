@@ -4,7 +4,6 @@ title: Jupyter4NFDI Training
 
 <div class="j4n-hero">
   <div class="j4n-eyebrow">Jupyter4NFDI · Training</div>
-  <h1>Make the most of Jupyter4NFDI.</h1>
   <p class="j4n-lede">Practical, self-paced learning materials to help you set up computational environments, work with research data, and make your workflows more reproducible.</p>
   <div class="j4n-actions">
     <a class="j4n-button j4n-button-primary" href="./pages/modules">Explore training modules <span aria-hidden="true">→</span></a>
