@@ -1,6 +1,7 @@
 ---
 title: Jupyter4NFDI Training
 ---
+<p class="j4n-hero-note">Learn at your own pace · Hands-on examples · Open learning materials</p>
 :::{iframe} https://www.youtube.com/embed/BNNuu195NGE
 :width: 640px
 :height: 360px
@@ -14,7 +15,7 @@ title: Jupyter4NFDI Training
   <a class="j4n-button j4n-button-outline" href="./pages/getting-started">Getting started</a>
 </div>
 
-<p class="j4n-hero-note">Learn at your own pace · Hands-on examples · Open learning materials</p>
+
 
 
 ## What would you like to learn?
