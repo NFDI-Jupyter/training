@@ -7,13 +7,13 @@ title: Jupyter4NFDI Training
 :::
 
 
-<div class="j4n-hero">
+
     <div class="j4n-actions">
     <a class="j4n-button j4n-button-primary" href="./pages/modules">Explore training modules <span aria-hidden="true">→</span></a>
     <a class="j4n-button j4n-button-outline" href="./pages/getting-started">Getting started</a>
   </div>
   <p class="j4n-hero-note">Learn at your own pace · Hands-on examples · Open learning materials</p>
-</div>
+
 
 ## What would you like to learn?
 
