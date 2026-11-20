@@ -4,8 +4,6 @@ title: Jupyter4NFDI Training
 <p class="j4n-hero-note">Learn at your own pace · Hands-on examples · Open learning materials</p>
 
 :::{iframe} https://www.youtube.com/embed/BNNuu195NGE
-:width: 640px
-:height: 360px
 :title: Introduction to Jupyter4NFDI
 :::
 
