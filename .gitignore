@@ -1,0 +1,5 @@
+_build/
+.node_modules/
+node_modules/
+.myst/
+.DS_Store

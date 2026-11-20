@@ -1,0 +1,32 @@
+version: 1
+project:
+  title: Jupyter4NFDI Training
+  description: Learn to use Jupyter4NFDI with practical, self-paced training modules.
+  github: https://github.com/NFDI-Jupyter/training
+  license: CC-BY-4.0
+  authors:
+    - name: Aleksandra Pawlik
+      orcid: https://orcid.org/0000-0001-8418-6735
+      
+  toc:
+    - file: index.md
+    - file: pages/getting-started.md
+    - file: pages/modules.md
+    - file: pages/learning-paths.md
+    - file: pages/for-trainers.md
+    - file: pages/contribute.md
+site:
+  title: Jupyter4NFDI Training
+  options:
+    logo: assets/training-logo.svg
+    favicon: assets/favicon.svg
+    style: custom.css
+  actions:
+    - title: Jupyter4NFDI
+      url: https://nfdi-jupyter.de/
+    - title: Open Jupyter4NFDI
+      url: https://hub.nfdi-jupyter.de/hub/home
+  parts:
+    primary_sidebar_footer: ''
+    footer: |
+      Training materials for [Jupyter4NFDI](https://nfdi-jupyter.de/). Supported by DFG project no. 521453681. | [Source on GitHub](https://github.com/NFDI-Jupyter/training)
