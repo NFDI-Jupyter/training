@@ -2,7 +2,7 @@
 title: Jupyter4NFDI Training
 ---
 :::{iframe} https://www.youtube.com/embed/BNNuu195NGE
-:width: 100%
+:width: 70%
 :title: Introduction to Jupyter4NFDI
 :::
 
