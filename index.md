@@ -62,6 +62,5 @@ Choose a topic below. Each module opens its own Jupyter Book, with explanations 
 
 
 <div class="j4n-strip">
-  <div><h2>New to Jupyter4NFDI?</h2><p>Start with the platform, then pick a module to build your skills.</p></div>
-  <a class="j4n-button j4n-button-primary" href="./pages/getting-started">Get started →</a>
+  <a class="j4n-button j4n-button-primary" href="https://nfdi-jupyter.de/">Jupyter4NFDI</a>
 </div>
