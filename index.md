@@ -60,13 +60,6 @@ Choose a topic below. Each module opens its own Jupyter Book, with explanations 
   </a>
 </div>
 
-## Learn by doing
-
-<div class="j4n-feature-grid">
-  <div class="j4n-feature"><span class="j4n-feature-number">01</span><h3>Start with a question</h3><p>Choose the topic that is relevant to your research workflow.</p></div>
-  <div class="j4n-feature"><span class="j4n-feature-number">02</span><h3>Follow a practical module</h3><p>Work through examples and try the steps in your own environment.</p></div>
-  <div class="j4n-feature"><span class="j4n-feature-number">03</span><h3>Apply it to your work</h3><p>Take what you have learned back to your notebooks, code, and data.</p></div>
-</div>
 
 <div class="j4n-strip">
   <div><h2>New to Jupyter4NFDI?</h2><p>Start with the platform, then pick a module to build your skills.</p></div>
