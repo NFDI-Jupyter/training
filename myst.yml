@@ -22,9 +22,7 @@ site:
     favicon: assets/favicon.svg
     style: custom.css
   actions:
-    - title: Jupyter4NFDI
-      url: https://nfdi-jupyter.de/
-    - title: Open Jupyter4NFDI
+    - title: Log into Jupyter4NFDI
       url: https://hub.nfdi-jupyter.de/hub/home
   parts:
     primary_sidebar_footer: ''
